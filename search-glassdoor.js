@@ -12,6 +12,7 @@ exports.handler = function searchGlassdoor(event, context, callback) {
       callback(null, {
         statusCode: 200,
         headers: {
+          'access-control-allow-origin': '*',
           'content-type': 'application/json',
         },
         body: JSON.stringify(response)
