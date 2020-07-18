@@ -1,0 +1,23 @@
+{
+  "name": "search-glassdoor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "search-glassdoor.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doobix/search-glassdoor.git"
+  },
+  "author": "doobix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doobix/search-glassdoor/issues"
+  },
+  "homepage": "https://github.com/doobix/search-glassdoor#readme"
+}
